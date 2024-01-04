@@ -2,11 +2,11 @@
 using namespace std;
 
 int main(void){
-    long long A, B, C;
+    long long num1, num2, num3;
     long long sum;
 
-    cin>>A>>B>>C;
-    sum = A + B + C;
+    cin>>num1>>num2>>num3;
+    sum = num1 + num2 + num3;
     cout<<sum<<endl;
 
     return 0;
